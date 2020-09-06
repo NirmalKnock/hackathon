@@ -1,10 +1,7 @@
 # Plant Disease Identification 
 
-## Inspiration
 
-## What it does
-
-## How I built : 
+## How we built : 
 It solves the problems that are currently going on the Agricultural sector,some farmers have more experience to find the diseases that occur on the plants, but toady more number of youngsters are going to the Agricultural fields, so he have no experience and new to this condition, when ever the disease attacks the plants, they don't to recognize which kind of attack is ,how to solve? so many questions are facing by these new persons to this field.Finally, we solve this problem, by making a Mobile that works  machine learning based on the Tensorflow model. It  shows the disease of the plant, by simply taking the picture of the plant.
 
 ## Challenges I ran into
